@@ -45,6 +45,9 @@ as well as some of Shakespeare's sonnets. I will choose the letters and sonnets
 based on the images they created that I liked the most.
 
 ### Image Contents
+In this list I show what text I have added to the images in this directory to 
+create my images. This is also what will reveal itself if opened in text formats.
+
 - Portfolio_line_01.jpg: The text from 01st_line.jpg
 - Portfolio_line_02.jpg: The text from 02nd_line.jpg
 - Portfolio_line_03.jpg: The text from 03rd_line.jpg
@@ -67,5 +70,5 @@ based on the images they created that I liked the most.
 - Portfolio_line_20.jpg: Shakespeare's 10th Sonnet
 
 #### Finishing Remarks
-I have also included the template and the original it is based on to show from
-where this images has started.
+I have also included the template and the original file my images are based on to show 
+from where it is these images have evolved.

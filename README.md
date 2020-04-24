@@ -29,7 +29,7 @@ included some texts in here. This notes.txt that has been a major part in this
 project trying to explain what sort of ideas I have. I will also include some of
 the how-to's as well since the help guides will be usefull and arguable
 completely necesary for understanding this project. Especially the
-HOWTOREADIMAGES.txt.
+HOWTOREADANDVIEWIMAGES.pdf.
 
 ### Image Creation
 The third thing is of course the images. I will build on one of the ideas I had

@@ -6,7 +6,7 @@ weeks. All in all I hope to combine pieces of all my different experiments. To
 have a look at the work I have been doing, click
 [here](https://github.com/aa-83/artistic_research). And for a summary of what I
 have done click
-[here](https://github.com/aa-83/artistic_research/01_texts/01_pdf/milestone.pdf).
+[here](https://github.com/aa-83/artistic_research/tree/master/01_texts/01_pdf/milestone.pdf).
 
 #### Quick info
 Before you start digging to deep into this project I will reccomend you to check

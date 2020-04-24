@@ -1,9 +1,10 @@
-##About my Portfolio
+## About my Portfolio
 This is my Portfolio that I am handing in as a part of my Artstict Research
 module spring 2020 at the Danish School of Performing Arts. In this folder I
 want to put in all the bits and pieces I have found out during the last four
 weeks. All in all I hope to combine pieces of all my different experiments.
 
+#### Quick info
 The first thing I will employ here is the quality of life improvement by adding
 numbers to the files to help guide whoever is looking at this. If not It would
 be sort of hard to get a good overview.

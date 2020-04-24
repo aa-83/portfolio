@@ -28,8 +28,7 @@ The second thing is figuring what sort of content to show. There will be
 included some texts in here. This notes.txt that has been a major part in this
 project trying to explain what sort of ideas I have. I will also include some of
 the how-to's as well since the help guides will be usefull and arguable
-completely necesary for understanding this project. Especially the [HOWTOREADANDVIEWIMAGES.pdf]
-(https://github.com/aa-83/portfolio/blob/master/01_HOWTOREADANDVIEWIMAGES.pdf).
+completely necesary for understanding this project. Especially the [HOWTOREADANDVIEWIMAGES.pdf](https://github.com/aa-83/portfolio/blob/master/01_HOWTOREADANDVIEWIMAGES.pdf).
 
 ### Image Creation
 The third thing is of course the images. I will build on one of the ideas I had

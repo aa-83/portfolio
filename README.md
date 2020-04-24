@@ -44,6 +44,28 @@ experiments as well. This means that my lines will include single letter images
 as well as some of Shakespeare's sonnets. I will choose the letters and sonnets
 based on the images they created that I liked the most.
 
+### Image Contents
+- Portfolio_line_01.jpg: The text from 01st_line.jpg
+- Portfolio_line_02.jpg: The text from 02nd_line.jpg
+- Portfolio_line_03.jpg: The text from 03rd_line.jpg
+- Portfolio_line_04.jpg: The text from 04th_line.jpg
+- Portfolio_line_05.jpg: The letter a
+- Portfolio_line_06.jpg: The letter d
+- Portfolio_line_07.jpg: The letter e
+- Portfolio_line_08.jpg: The letter h
+- Portfolio_line_09.jpg: The letter j
+- Portfolio_line_10.jpg: The letter p
+- Portfolio_line_11.jpg: Shakespeare's 1st Sonnet
+- Portfolio_line_12.jpg: Shakespeare's 2nd Sonnet
+- Portfolio_line_13.jpg: Shakespeare's 3rd Sonnet
+- Portfolio_line_14.jpg: Shakespeare's 4th Sonnet
+- Portfolio_line_15.jpg: Shakespeare's 5th Sonnet
+- Portfolio_line_16.jpg: Shakespeare's 6th Sonnet
+- Portfolio_line_17.jpg: Shakespeare's 7th Sonnet
+- Portfolio_line_18.jpg: Shakespeare's 8th Sonnet
+- Portfolio_line_19.jpg: Shakespeare's 9th Sonnet
+- Portfolio_line_20.jpg: Shakespeare's 10th Sonnet
+
 #### Finishing Remarks
 I have also included the template and the original it is based on to show from
 where this images has started.

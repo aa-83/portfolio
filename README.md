@@ -4,9 +4,9 @@ module spring 2020 at the Danish School of Performing Arts. In this folder I
 want to put in all the bits and pieces I have found out during the last four
 weeks. All in all I hope to combine pieces of all my different experiments. To
 have a look at the work I have been doing, click
-[here](https://github.com/aa-83/artistic_reasearch). And for a summary of what I
+[here](https://github.com/aa-83/artistic_research). And for a summary of what I
 have done click
-[here](https://github.com/aa-83/artistic_reasearch/01_texts/01_pdf/milestone.pdf).
+[here](https://github.com/aa-83/artistic_research/01_texts/01_pdf/milestone.pdf).
 
 #### Quick info
 Before you start digging to deep into this project I will reccomend you to check
